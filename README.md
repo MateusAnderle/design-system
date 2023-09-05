@@ -6,7 +6,7 @@ The **DESIGN SYSTEM** repository is built with Storybook and includes various to
 <h3 align="center">
   <a href="#about">About</a>&nbsp;|&nbsp;
   <a href="#minimum-requirements">Requirements</a>&nbsp;|&nbsp;
-  <a href="#package-download">Download and Run</a>
+  <a href="#package-download">Download and Run</a> 
 </h3>
 
 ## :information_source: About
